@@ -1,0 +1,86 @@
+/* Your styles here */
+@import url(font-awesome.css);
+
+
+
+html,
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font: bold;
+    margin: 0%;
+    text-align: center;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+header {
+    background-color: black;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+.sfondo {
+    height: 200px;
+    background-image: url("../images/banner.jpg");
+    padding: 5%;
+    margin-bottom: 50px;
+}
+
+.titolo {
+    font-family: 'Montserrat', sans-serif;
+    color: #25a2c3;
+    font: bold;
+}
+
+#custom-link {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 30px;
+    text-align: center;
+    background-color: #f04c2f;
+    border-radius: 5px;
+    width: 2em 2em;
+}
+
+#custom-image {
+    border-radius: 50%;
+    width: 80%;
+    padding: 20px;
+}
+
+#redbox {
+    color: white;
+    background-color: #e22d0e;
+    font-family: 'Montserrat', sans-serif;
+    padding: 5%;
+    margin-bottom: 10%;
+}
+
+section>article {
+    border: 1px solid #dee1e3;
+    margin: 20px;
+}
+
+.footer {
+    background-color: #25a2c3;
+    padding: 20px;
+}
+
+footer>h2 {
+    color: white;
+    margin-bottom: 5px;
+}

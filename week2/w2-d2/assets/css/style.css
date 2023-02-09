@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+    background-color: orangered;
+    font-family: 'Times New Roman', Times, serif
+    
+}
+h1{
+    color: white;
+    padding: 2rem;
+    font-weight: bold;
+}
+h3{
+    margin: 2em;
+}
+p{
+    margin: 2em;;
+}

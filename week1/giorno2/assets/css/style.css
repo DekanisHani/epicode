@@ -1,0 +1,83 @@
+/* IMPOSTAZIONI GENERALI */
+@import url(/week1/giorno2/assets/css/webfonts/fa-regular-400.svg);
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+html, body{
+    font-family: 'poppins', sans-serif;
+    margin: 2%;
+    background-image: url(/week1/giorno2/assets/img/sfondo.png);
+}
+.ristretto{
+    width: 95%;
+    margin: auto;
+    padding: 0.3em;
+    box-shadow: 0px 2px 3px 2px #666;
+}
+/* HEADER */
+header{
+    text-align: center;
+    margin: auto;
+    background: linear-gradient(#00bcd4,#005e8a);
+    margin-top: 1em;
+    color: white;
+    margin-top: 2%;
+    padding-bottom: 2em;
+    font-weight: bold;
+
+}
+
+#logo{
+    width: 10%;
+    display: inline block;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+header li{
+    margin: 0.3em;
+}
+
+.link-iniziali, a{
+    color: white;
+    text-decoration: none;
+}
+
+
+/* MAIN */
+main{
+    margin: auto;
+    margin-left: 2%;
+    background-color: white;
+    box-shadow: 1px 0px 2px 0px #666;
+    box-shadow: -1px 0px 2px 0px #666;
+    padding: 0.3em;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+h1{
+    font-size: 2.5em;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    font-weight: 600;
+}
+.autore{
+    color: grey;
+}
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+footer{
+    text-align: center;
+    margin: auto;
+    background: linear-gradient(#00bcd4,#005e8a);
+    margin-top: 1em;
+    color: white;
+    margin-bottom: 5%;
+    margin-top: 2%;
+    padding-bottom: 2em;
+    font-weight: bold;
+}
