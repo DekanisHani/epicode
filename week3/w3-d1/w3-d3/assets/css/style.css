@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(188, 141, 141);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.custom-label:hover{
+    background-color: rgb(228, 68, 68);
+    cursor: pointer;
+    color: black;
+}
+.custom-label li.style{
+    text-decoration: line-through;
+}
+input{
+    margin-left: 5%;
+}
+
+
